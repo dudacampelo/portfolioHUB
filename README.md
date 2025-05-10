@@ -35,5 +35,5 @@ projetos-pessoais/
 
 ## 🔗 Contato
 
-GitHub: [https://github.com/seunome](https://github.com/seunome)  
-LinkedIn: Em construção
+GitHub: [https://github.com/dudacampelo](https://github.com/dudacampelo)  
+LinkedIn: https://www.linkedin.com/in/maria-eduarda-765303365/?trk=opento_sprofile_goalscard
