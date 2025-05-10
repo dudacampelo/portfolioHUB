@@ -32,9 +32,6 @@ projetos-pessoais/
 ├── index.html
 └── README.md
 
-yaml
-Copiar
-Editar
 
 ## 🔗 Contato
 
