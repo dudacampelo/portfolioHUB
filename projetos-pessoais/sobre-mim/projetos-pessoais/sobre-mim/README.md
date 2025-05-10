@@ -1,31 +1,40 @@
 # Projeto: Sobre Mim
 
-Este é um projeto simples de uma página web pessoal desenvolvida como parte do meu portfólio.
+Este projeto é uma página web pessoal criada como parte do meu portfólio profissional, onde compartilho informações sobre minha formação, interesses e perfil técnico.
 
 ## 👩‍💻 Sobre
 
-Meu nome é **Maria Eduarda** e sou estudante de **Ciência da Computação**. Criei esta página para me apresentar de forma profissional e compartilhar meus projetos públicos através do GitHub.
+Meu nome é **Maria Eduarda**, sou de **Brasília (DF)** e estou cursando o **1º semestre de Ciência da Computação** no **UniCEUB**.
+
+Tenho grande interesse nas áreas de **Dados** e **Segurança da Informação**, e busco constantemente aprender mais e me envolver em projetos práticos e colaborativos.
+
+Além da tecnologia, sou apaixonada por esportes como **futevôlei**, **tênis**, **ginástica**, entre outros.
+
+## 🌐 Página
+
+Acesse a página criada neste projeto:
+
+> [Ver página (GitHub Pages)](https://seunome.github.io/portfolioHUB/projetos-pessoais/sobre-mim/index.html)
+
+📌 *Substitua o link acima pelo endereço real após ativar o GitHub Pages.*
 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
-- CSS3 (estilização embutida)
-- Python
+- CSS3
 
 ## 📁 Estrutura
 
-O projeto está localizado em:
 projetos-pessoais/
 └── sobre-mim/
 ├── index.html
 └── README.md
 
-## 🔗 Acesse a Página
+yaml
+Copiar
+Editar
 
-> [Clique aqui para visualizar a página (GitHub Pages)](https://seunome.github.io/portfolioHUB/projetos-pessoais/sobre-mim/index.html)
+## 🔗 Contato
 
-
-## 📬 Contato
-
-Veja outros projetos no meu perfil do GitHub:  
-[https://github.com/dudacampelo](https://github.com/dudacampelo)
+GitHub: [https://github.com/seunome](https://github.com/seunome)  
+LinkedIn: Em construção
