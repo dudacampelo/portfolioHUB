@@ -16,7 +16,7 @@ Além da tecnologia, sou apaixonada por esportes como **futevôlei**, **tênis**
 
 Acesse a página criada neste projeto:
 
-> [Ver página (GitHub Pages)](https://https://dudacampelo.github.io/portfolioHUB)
+> [Ver página (GitHub Pages)](https://dudacampelo.github.io/portfolioHUB/)
 
 
 ## 🛠️ Tecnologias Utilizadas
