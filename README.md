@@ -16,9 +16,8 @@ Além da tecnologia, sou apaixonada por esportes como **futevôlei**, **tênis**
 
 Acesse a página criada neste projeto:
 
-> [Ver página (GitHub Pages)](https://seunome.github.io/portfolioHUB/projetos-pessoais/sobre-mim/index.html)
+> [Ver página (GitHub Pages)](https://https://dudacampelo.github.io/portfolioHUB/)
 
-📌 *Substitua o link acima pelo endereço real após ativar o GitHub Pages.*
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -36,4 +35,4 @@ projetos-pessoais/
 ## 🔗 Contato
 
 GitHub: [https://github.com/dudacampelo](https://github.com/dudacampelo)  
-LinkedIn: https://www.linkedin.com/in/maria-eduarda-765303365/?trk=opento_sprofile_goalscard
+LinkedIn: [https://www.linkedin.com/in/meduardacampelo](https://www.linkedin.com/in/meduardacampelo)
